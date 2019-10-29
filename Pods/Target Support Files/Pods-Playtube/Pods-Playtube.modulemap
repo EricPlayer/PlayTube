@@ -1,0 +1,6 @@
+framework module Pods_Playtube {
+  umbrella header "Pods-Playtube-umbrella.h"
+
+  export *
+  module * { export * }
+}

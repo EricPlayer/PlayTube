@@ -1,0 +1,600 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "07B-P8-xiH"; */
+"07B-P8-xiH.text" = "Label";
+
+/* Class = "UILabel"; text = "ALIVE | CANADA 4K"; ObjectID = "0ea-xO-fky"; */
+"0ea-xO-fky.text" = "ALIVE | CANADA 4K";
+
+/* Class = "UILabel"; text = "Dean Doughouz"; ObjectID = "0j1-s8-Zok"; */
+"0j1-s8-Zok.text" = "Dean Doughouz";
+
+/* Class = "UILabel"; text = "Published on "; ObjectID = "0m2-M8-Act"; */
+"0m2-M8-Act.text" = "Published on ";
+
+/* Class = "UILabel"; text = "Warning "; ObjectID = "1W8-aF-jO4"; */
+"1W8-aF-jO4.text" = "Warning ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1sK-qy-iTZ"; */
+"1sK-qy-iTZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Go back and watch any video you want "; ObjectID = "23B-2E-7ed"; */
+"23B-2E-7ed.text" = "Go back and watch any video you want ";
+
+/* Class = "UILabel"; text = "2:45"; ObjectID = "2Fx-dA-e1F"; */
+"2Fx-dA-e1F.text" = "2:45";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2cz-eM-Dtr"; */
+"2cz-eM-Dtr.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Repeat Password"; ObjectID = "35y-oK-l5g"; */
+"35y-oK-l5g.placeholder" = "Repeat Password";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "3ze-2o-P6S"; */
+"3ze-2o-P6S.text" = "0";
+
+/* Class = "UILabel"; text = "Account and Profile"; ObjectID = "4IG-OY-rBx"; */
+"4IG-OY-rBx.text" = "Account and Profile";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4MV-3B-1B1"; */
+"4MV-3B-1B1.text" = "Label";
+
+/* Class = "UILabel"; text = "harisbutt"; ObjectID = "4Ti-js-yGA"; */
+"4Ti-js-yGA.text" = "harisbutt";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "4WC-Km-tlO"; */
+"4WC-Km-tlO.text" = "0";
+
+/* Class = "UILabel"; text = "share"; ObjectID = "4m7-Ah-phN"; */
+"4m7-Ah-phN.text" = "share";
+
+/* Class = "UILabel"; text = "You need to login first"; ObjectID = "4rm-Zb-fRW"; */
+"4rm-Zb-fRW.text" = "You need to login first";
+
+/* Class = "UIButton"; normalTitle = "              Help"; ObjectID = "53v-zk-EeB"; */
+"53v-zk-EeB.normalTitle" = "              Help";
+
+/* Class = "UILabel"; text = "2:45"; ObjectID = "583-1T-ba7"; */
+"583-1T-ba7.text" = "2:45";
+
+/* Class = "UILabel"; text = "2:45"; ObjectID = "5Hl-to-6DJ"; */
+"5Hl-to-6DJ.text" = "2:45";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5VQ-Lx-Zfn"; */
+"5VQ-Lx-Zfn.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "5ZV-SZ-iab"; */
+"5ZV-SZ-iab.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5ep-fs-hKX"; */
+"5ep-fs-hKX.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6iV-68-NMk"; */
+"6iV-68-NMk.text" = "Label";
+
+/* Class = "UILabel"; text = "Are you sure you want to delete this playlist"; ObjectID = "6is-Cy-o3F"; */
+"6is-Cy-o3F.text" = "Are you sure you want to delete this playlist";
+
+/* Class = "UIButton"; normalTitle = "             Terms & privacy policy"; ObjectID = "6qb-8w-Dkr"; */
+"6qb-8w-Dkr.normalTitle" = "             Terms & privacy policy";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6xz-dK-t0Q"; */
+"6xz-dK-t0Q.text" = "0";
+
+/* Class = "UILabel"; text = "Empty"; ObjectID = "7cF-uz-Ysc"; */
+"7cF-uz-Ysc.text" = "Empty";
+
+/* Class = "UILabel"; text = "Are you sure you want to delete this account from PlayTube"; ObjectID = "7nv-4z-Pfj"; */
+"7nv-4z-Pfj.text" = "Are you sure you want to delete this account from PlayTube";
+
+/* Class = "UILabel"; text = "comment Label"; ObjectID = "7wZ-j0-PlA"; */
+"7wZ-j0-PlA.text" = "comment Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Fc-hw-pim"; */
+"9Fc-hw-pim.text" = "Label";
+
+/* Class = "UILabel"; text = "2:45"; ObjectID = "9fS-NK-73Z"; */
+"9fS-NK-73Z.text" = "2:45";
+
+/* Class = "UILabel"; text = "Social LInks"; ObjectID = "9fb-1n-Skp"; */
+"9fb-1n-Skp.text" = "Social LInks";
+
+/* Class = "UIButton"; normalTitle = "Latest Videos"; ObjectID = "9k6-ii-ew6"; */
+"9k6-ii-ew6.normalTitle" = "Latest Videos";
+
+/* Class = "UILabel"; text = "No videos found for now!"; ObjectID = "AkZ-E9-Xoz"; */
+"AkZ-E9-Xoz.text" = "No videos found for now!";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Azx-6M-RzI"; */
+"Azx-6M-RzI.text" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "              Settings"; ObjectID = "BDq-ir-unB"; */
+"BDq-ir-unB.normalTitle" = "              Settings";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "BzL-Mn-Nl2"; */
+"BzL-Mn-Nl2.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "Clear Cache"; ObjectID = "Cz5-Nh-cF5"; */
+"Cz5-Nh-cF5.text" = "Clear Cache";
+
+/* Class = "UILabel"; text = "General"; ObjectID = "DMr-40-wI9"; */
+"DMr-40-wI9.text" = "General";
+
+/* Class = "UILabel"; text = "albel"; ObjectID = "DT4-fK-0ad"; */
+"DT4-fK-0ad.text" = "albel";
+
+/* Class = "UILabel"; text = "harisbutt"; ObjectID = "DhW-Sm-P2J"; */
+"DhW-Sm-P2J.text" = "harisbutt";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Dkv-9T-Hpe"; */
+"Dkv-9T-Hpe.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "Ecc-3j-4Nh"; */
+"Ecc-3j-4Nh.normalTitle" = "CANCEL";
+
+/* Class = "UIButton"; normalTitle = "    SUBSCRIBE"; ObjectID = "Eev-0b-fff"; */
+"Eev-0b-fff.normalTitle" = "    SUBSCRIBE";
+
+/* Class = "UILabel"; text = "Justice League | Offical Trailer Corporative"; ObjectID = "FuL-LV-obK"; */
+"FuL-LV-obK.text" = "Justice League | Offical Trailer Corporative";
+
+/* Class = "UILabel"; text = "Sign in to access video that you have liked or saved"; ObjectID = "FyQ-Rj-vyb"; */
+"FyQ-Rj-vyb.text" = "Sign in to access video that you have liked or saved";
+
+/* Class = "UILabel"; text = "No videos found for now!"; ObjectID = "GI5-Mw-wKn"; */
+"GI5-Mw-wKn.text" = "No videos found for now!";
+
+/* Class = "UINavigationItem"; title = "Library"; ObjectID = "GId-6N-PKt"; */
+"GId-6N-PKt.title" = "Library";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GbO-NZ-cdJ"; */
+"GbO-NZ-cdJ.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Current Password"; ObjectID = "Ghi-g9-2d2"; */
+"Ghi-g9-2d2.placeholder" = "Current Password";
+
+/* Class = "UILabel"; text = "2 Views"; ObjectID = "GnU-Tb-alu"; */
+"GnU-Tb-alu.text" = "2 Views";
+
+/* Class = "UILabel"; text = "Don't have any videos"; ObjectID = "HKj-UE-zlr"; */
+"HKj-UE-zlr.text" = "Don't have any videos";
+
+/* Class = "UILabel"; text = "Pause watch history"; ObjectID = "HTv-lH-vSh"; */
+"HTv-lH-vSh.text" = "Pause watch history";
+
+/* Class = "UIButton"; normalTitle = "      SUBSCRIBE"; ObjectID = "Hcw-Jb-Wde"; */
+"Hcw-Jb-Wde.normalTitle" = "      SUBSCRIBE";
+
+/* Class = "UILabel"; text = "Deandoughouz"; ObjectID = "IHi-1C-9fh"; */
+"IHi-1C-9fh.text" = "Deandoughouz";
+
+/* Class = "UILabel"; text = "2:45"; ObjectID = "IuD-Ju-Gwa"; */
+"IuD-Ju-Gwa.text" = "2:45";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Iz3-1a-PcU"; */
+"Iz3-1a-PcU.text" = "0";
+
+/* Class = "UILabel"; text = "Justice League | Offical Trailer Corporative"; ObjectID = "Jks-RX-JYd"; */
+"Jks-RX-JYd.text" = "Justice League | Offical Trailer Corporative";
+
+/* Class = "UILabel"; text = "Watch Later"; ObjectID = "Jr2-oh-rNf"; */
+"Jr2-oh-rNf.text" = "Watch Later";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jya-eQ-J6N"; */
+"Jya-eQ-J6N.text" = "Label";
+
+/* Class = "UILabel"; text = "A verification email has been sent to your email account.Please check"; ObjectID = "K23-dM-7Cp"; */
+"K23-dM-7Cp.text" = "A verification email has been sent to your email account.Please check";
+
+/* Class = "UILabel"; text = "Warning "; ObjectID = "K9r-Bx-X7H"; */
+"K9r-Bx-X7H.text" = "Warning ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KEz-IY-ZcN"; */
+"KEz-IY-ZcN.text" = "Label";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "KOo-ER-9gB"; */
+"KOo-ER-9gB.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "All Channels"; ObjectID = "KVK-jc-hRC"; */
+"KVK-jc-hRC.normalTitle" = "All Channels";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "KXz-tr-PwP"; */
+"KXz-tr-PwP.placeholder" = "First Name";
+
+/* Class = "UIButton"; normalTitle = "Subscribed"; ObjectID = "Krx-PD-3MA"; */
+"Krx-PD-3MA.normalTitle" = "Subscribed";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Kxm-IH-SV6"; */
+"Kxm-IH-SV6.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Help"; ObjectID = "L7w-7k-T5b"; */
+"L7w-7k-T5b.normalTitle" = "Help";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "Lzv-rN-2ga"; */
+"Lzv-rN-2ga.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "M0v-Oi-bVZ"; */
+"M0v-Oi-bVZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "M9Y-Xk-4ud"; */
+"M9Y-Xk-4ud.text" = "Label";
+
+/* Class = "UILabel"; text = "Select a Playlist"; ObjectID = "MSu-Ay-nLW"; */
+"MSu-Ay-nLW.text" = "Select a Playlist";
+
+/* Class = "UILabel"; text = "Empty Videos"; ObjectID = "NFL-lG-r8t"; */
+"NFL-lG-r8t.text" = "Empty Videos";
+
+/* Class = "UILabel"; text = "No videos found for now!"; ObjectID = "NLZ-YA-IcE"; */
+"NLZ-YA-IcE.text" = "No videos found for now!";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "O2N-br-meF"; */
+"O2N-br-meF.normalTitle" = "CANCEL";
+
+/* Class = "UIButton"; normalTitle = "Terms of use"; ObjectID = "OJ9-Fn-H2u"; */
+"OJ9-Fn-H2u.normalTitle" = "Terms of use";
+
+/* Class = "UILabel"; text = "Add To"; ObjectID = "Ok4-7v-AeI"; */
+"Ok4-7v-AeI.text" = "Add To";
+
+/* Class = "UIButton"; normalTitle = "Top Videos"; ObjectID = "PLn-CI-eLx"; */
+"PLn-CI-eLx.normalTitle" = "Top Videos";
+
+/* Class = "UILabel"; text = "Clear watched history"; ObjectID = "Pg1-ID-utq"; */
+"Pg1-ID-utq.text" = "Clear watched history";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "PgC-J6-3eF"; */
+"PgC-J6-3eF.title" = "Search";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "Q1E-l3-cm5"; */
+"Q1E-l3-cm5.title" = "More";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q7q-qC-TV8"; */
+"Q7q-qC-TV8.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QTK-hN-SL1"; */
+"QTK-hN-SL1.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QW4-hl-t8d"; */
+"QW4-hl-t8d.text" = "Label";
+
+/* Class = "UILabel"; text = "Empty Videos"; ObjectID = "QWt-nk-tv6"; */
+"QWt-nk-tv6.text" = "Empty Videos";
+
+/* Class = "UIButton"; normalTitle = "About us"; ObjectID = "Qm0-mS-SBe"; */
+"Qm0-mS-SBe.normalTitle" = "About us";
+
+/* Class = "UILabel"; text = "2:45"; ObjectID = "Qqu-E0-kwW"; */
+"Qqu-E0-kwW.text" = "2:45";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "R0Y-yu-AK3"; */
+"R0Y-yu-AK3.text" = "0";
+
+/* Class = "UILabel"; text = "PlayTube"; ObjectID = "R5d-T2-fq2"; */
+"R5d-T2-fq2.text" = "PlayTube";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "R66-aZ-WPf"; */
+"R66-aZ-WPf.title" = "More";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RLs-6J-xzD"; */
+"RLs-6J-xzD.text" = "Label";
+
+/* Class = "UILabel"; text = "Deandoughouz"; ObjectID = "Rdn-ht-MDx"; */
+"Rdn-ht-MDx.text" = "Deandoughouz";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "SOF-fI-4ni"; */
+"SOF-fI-4ni.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Sai-sr-Hwt"; */
+"Sai-sr-Hwt.text" = "Label";
+
+/* Class = "UILabel"; text = "Warning "; ObjectID = "SkS-ZA-H6G"; */
+"SkS-ZA-H6G.text" = "Warning ";
+
+/* Class = "UILabel"; text = "Avatar & Cover"; ObjectID = "SmK-vi-cRE"; */
+"SmK-vi-cRE.text" = "Avatar & Cover";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "TGO-xr-Rd7"; */
+"TGO-xr-Rd7.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TxG-wj-jHf"; */
+"TxG-wj-jHf.text" = "Label";
+
+/* Class = "UILabel"; text = "Private"; ObjectID = "ULb-qe-3JE"; */
+"ULb-qe-3JE.text" = "Private";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UYs-kv-Hev"; */
+"UYs-kv-Hev.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "UcM-hV-DZZ"; */
+"UcM-hV-DZZ.title" = "Search";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "VGc-nX-jhy"; */
+"VGc-nX-jhy.text" = "Language";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Va3-Y1-j73"; */
+"Va3-Y1-j73.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "Vhh-TL-edw"; */
+"Vhh-TL-edw.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "3285 Views"; ObjectID = "WEs-tn-vsH"; */
+"WEs-tn-vsH.text" = "3285 Views";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Wh7-u2-QTt"; */
+"Wh7-u2-QTt.text" = "Label";
+
+/* Class = "UILabel"; text = "2:45"; ObjectID = "WmC-dh-sax"; */
+"WmC-dh-sax.text" = "2:45";
+
+/* Class = "UILabel"; text = "Change Image Cover"; ObjectID = "Wzz-aQ-ugf"; */
+"Wzz-aQ-ugf.text" = "Change Image Cover";
+
+/* Class = "UILabel"; text = "Enter My Channel"; ObjectID = "X4V-W1-nze"; */
+"X4V-W1-nze.text" = "Enter My Channel";
+
+/* Class = "UILabel"; text = "comment Label"; ObjectID = "Yoh-Cg-9tn"; */
+"Yoh-Cg-9tn.text" = "comment Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ZI0-gb-Tu8"; */
+"ZI0-gb-Tu8.text" = "0";
+
+/* Class = "UILabel"; text = "No Replies"; ObjectID = "ZUS-0v-pOJ"; */
+"ZUS-0v-pOJ.text" = "No Replies";
+
+/* Class = "UIButton"; normalTitle = "View More"; ObjectID = "a8Y-o7-XQi"; */
+"a8Y-o7-XQi.normalTitle" = "View More";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "aBS-sf-o4R"; */
+"aBS-sf-o4R.normalTitle" = "Logout";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "aTr-CC-GTr"; */
+"aTr-CC-GTr.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "UserName"; ObjectID = "adH-04-Ito"; */
+"adH-04-Ito.text" = "UserName";
+
+/* Class = "UILabel"; text = "Your notifications live here"; ObjectID = "ae4-lu-gIf"; */
+"ae4-lu-gIf.text" = "Your notifications live here";
+
+/* Class = "UILabel"; text = "Empty Playlist"; ObjectID = "bIX-DR-hzd"; */
+"bIX-DR-hzd.text" = "Empty Playlist";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bMb-aF-nhf"; */
+"bMb-aF-nhf.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bSo-0y-8TN"; */
+"bSo-0y-8TN.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bUt-Wo-0qa"; */
+"bUt-Wo-0qa.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Playlist name"; ObjectID = "bh7-8U-RMY"; */
+"bh7-8U-RMY.placeholder" = "Playlist name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cB4-sM-Aqy"; */
+"cB4-sM-Aqy.text" = "Label";
+
+/* Class = "UILabel"; text = "Don't have any videos"; ObjectID = "cJH-7q-CtL"; */
+"cJH-7q-CtL.text" = "Don't have any videos";
+
+/* Class = "UIButton"; normalTitle = "CREATE NEW!"; ObjectID = "cKq-An-q14"; */
+"cKq-An-q14.normalTitle" = "CREATE NEW!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cQF-Kd-bk1"; */
+"cQF-Kd-bk1.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cqu-VI-xcb"; */
+"cqu-VI-xcb.text" = "Label";
+
+/* Class = "UILabel"; text = "Dean Doughouz"; ObjectID = "cv2-CP-c9d"; */
+"cv2-CP-c9d.text" = "Dean Doughouz";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "dB4-Zb-gtj"; */
+"dB4-Zb-gtj.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "2 Days ago"; ObjectID = "dQf-l6-lJA"; */
+"dQf-l6-lJA.text" = "2 Days ago";
+
+/* Class = "UILabel"; text = "Report This Video"; ObjectID = "dmB-yd-7RS"; */
+"dmB-yd-7RS.text" = "Report This Video";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "drH-fD-jcd"; */
+"drH-fD-jcd.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "e1v-Io-ZRy"; */
+"e1v-Io-ZRy.text" = "0";
+
+/* Class = "UILabel"; text = "Enjoy your favourite videos"; ObjectID = "e6z-Ph-Km5"; */
+"e6z-Ph-Km5.text" = "Enjoy your favourite videos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eIL-pP-0e1"; */
+"eIL-pP-0e1.text" = "Label";
+
+/* Class = "UILabel"; text = "Subscribe to your favorite channels to get notified about their lastest videos."; ObjectID = "eSc-oF-6ml"; */
+"eSc-oF-6ml.text" = "Subscribe to your favorite channels to get notified about their lastest videos.";
+
+/* Class = "UILabel"; text = "2:45"; ObjectID = "edy-VL-79O"; */
+"edy-VL-79O.text" = "2:45";
+
+/* Class = "UIButton"; normalTitle = "Delete Account"; ObjectID = "eng-ej-Boq"; */
+"eng-ej-Boq.normalTitle" = "Delete Account";
+
+/* Class = "UILabel"; text = "2:45"; ObjectID = "fEu-wG-HAP"; */
+"fEu-wG-HAP.text" = "2:45";
+
+/* Class = "UIButton"; normalTitle = "EDIT"; ObjectID = "fKK-VW-h9c"; */
+"fKK-VW-h9c.normalTitle" = "EDIT";
+
+/* Class = "UILabel"; text = "Clear videos watched while signed out on this device. This will also clear your watch history."; ObjectID = "fVh-2g-j1J"; */
+"fVh-2g-j1J.text" = "Clear videos watched while signed out on this device. This will also clear your watch history.";
+
+/* Class = "UILabel"; text = "Public"; ObjectID = "fbl-QJ-t9K"; */
+"fbl-QJ-t9K.text" = "Public";
+
+/* Class = "UILabel"; text = "Display your app Language"; ObjectID = "ffY-ZU-ykI"; */
+"ffY-ZU-ykI.text" = "Display your app Language";
+
+/* Class = "UILabel"; text = "Dean Doughouz"; ObjectID = "fmj-j7-zFX"; */
+"fmj-j7-zFX.text" = "Dean Doughouz";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "gaw-dq-Rvl"; */
+"gaw-dq-Rvl.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "No videos found for now!"; ObjectID = "hCw-bI-95u"; */
+"hCw-bI-95u.text" = "No videos found for now!";
+
+/* Class = "UILabel"; text = "No videos found for now!"; ObjectID = "hWf-8x-uwX"; */
+"hWf-8x-uwX.text" = "No videos found for now!";
+
+/* Class = "UILabel"; text = "Change your password"; ObjectID = "hoq-Ts-oS5"; */
+"hoq-Ts-oS5.text" = "Change your password";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "iGR-eK-T3d"; */
+"iGR-eK-T3d.text" = "Support";
+
+/* Class = "UILabel"; text = "Justice League | Offical Trailer Corporative"; ObjectID = "idr-ft-WJh"; */
+"idr-ft-WJh.text" = "Justice League | Offical Trailer Corporative";
+
+/* Class = "UILabel"; text = "2:45"; ObjectID = "izg-Tz-XLW"; */
+"izg-Tz-XLW.text" = "2:45";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jEm-qr-CMz"; */
+"jEm-qr-CMz.text" = "Label";
+
+/* Class = "UILabel"; text = "Justice League | Offical Trailer Corporative"; ObjectID = "k0V-92-ffs"; */
+"k0V-92-ffs.text" = "Justice League | Offical Trailer Corporative";
+
+/* Class = "UILabel"; text = "comment Label"; ObjectID = "k5Z-dT-zWa"; */
+"k5Z-dT-zWa.text" = "comment Label";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "kn4-a9-XTt"; */
+"kn4-a9-XTt.text" = "Category";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "l4G-J6-xaa"; */
+"l4G-J6-xaa.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "l8O-xE-TJx"; */
+"l8O-xE-TJx.text" = "Label";
+
+/* Class = "UILabel"; text = "UserName"; ObjectID = "lUM-aq-GZa"; */
+"lUM-aq-GZa.text" = "UserName";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "lUs-bX-Ebv"; */
+"lUs-bX-Ebv.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mGN-Y8-7gf"; */
+"mGN-Y8-7gf.text" = "Label";
+
+/* Class = "UILabel"; text = "3285 Views"; ObjectID = "nDm-2Z-heB"; */
+"nDm-2Z-heB.text" = "3285 Views";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "nHE-nY-KBB"; */
+"nHE-nY-KBB.placeholder" = "New Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nQG-vL-osY"; */
+"nQG-vL-osY.text" = "Label";
+
+/* Class = "UILabel"; text = "Change Image Avatar"; ObjectID = "nci-1E-Gdc"; */
+"nci-1E-Gdc.text" = "Change Image Avatar";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "nhS-Id-zhj"; */
+"nhS-Id-zhj.text" = "0";
+
+/* Class = "UILabel"; text = "Please write a summary of what this video was about "; ObjectID = "oVK-dU-w8i"; */
+"oVK-dU-w8i.text" = "Please write a summary of what this video was about ";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "ohf-w1-yjq"; */
+"ohf-w1-yjq.text" = "Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oql-hC-d4K"; */
+"oql-hC-d4K.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oxI-yN-noI"; */
+"oxI-yN-noI.text" = "Label";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "pd9-2x-14a"; */
+"pd9-2x-14a.text" = "Male";
+
+/* Class = "UILabel"; text = "Dean Doughouz"; ObjectID = "peo-ck-6uz"; */
+"peo-ck-6uz.text" = "Dean Doughouz";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "psS-gu-naY"; */
+"psS-gu-naY.text" = "Label";
+
+/* Class = "UILabel"; text = "2:45"; ObjectID = "pwM-QO-GWr"; */
+"pwM-QO-GWr.text" = "2:45";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qeD-cj-Qsy"; */
+"qeD-cj-Qsy.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "qzv-tb-7as"; */
+"qzv-tb-7as.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "rkH-na-YGt"; */
+"rkH-na-YGt.text" = "Other";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rr8-xQ-63S"; */
+"rr8-xQ-63S.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "ssH-Dw-6Nz"; */
+"ssH-Dw-6Nz.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Empty Videos"; ObjectID = "stS-cG-idp"; */
+"stS-cG-idp.text" = "Empty Videos";
+
+/* Class = "UILabel"; text = "2:45"; ObjectID = "sxg-WO-3G1"; */
+"sxg-WO-3G1.text" = "2:45";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "tgB-8o-Ikp"; */
+"tgB-8o-Ikp.text" = "Language";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ty6-OB-UDH"; */
+"ty6-OB-UDH.text" = "Label";
+
+/* Class = "UILabel"; text = "Warning "; ObjectID = "uNB-Pt-bZL"; */
+"uNB-Pt-bZL.text" = "Warning ";
+
+/* Class = "UILabel"; text = "3285 Views"; ObjectID = "uQL-g9-Opp"; */
+"uQL-g9-Opp.text" = "3285 Views";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "vsV-MN-mO5"; */
+"vsV-MN-mO5.text" = "Female";
+
+/* Class = "UILabel"; text = "Empty Videos"; ObjectID = "w9B-FP-3NR"; */
+"w9B-FP-3NR.text" = "Empty Videos";
+
+/* Class = "UILabel"; text = "Night Mode"; ObjectID = "wC7-DJ-68h"; */
+"wC7-DJ-68h.text" = "Night Mode";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "wCO-3K-J2d"; */
+"wCO-3K-J2d.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "3285 Views"; ObjectID = "wUR-gC-uGW"; */
+"wUR-gC-uGW.text" = "3285 Views";
+
+/* Class = "UILabel"; text = "Are you sure you want to logout ?"; ObjectID = "wyl-rC-gZj"; */
+"wyl-rC-gZj.text" = "Are you sure you want to logout ?";
+
+/* Class = "UILabel"; text = "History & Privacy"; ObjectID = "xa9-5W-Brx"; */
+"xa9-5W-Brx.text" = "History & Privacy";
+
+/* Class = "UILabel"; text = "4 D"; ObjectID = "xcA-MK-L12"; */
+"xcA-MK-L12.text" = "4 D";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xhA-fa-82I"; */
+"xhA-fa-82I.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "y4U-ff-aOm"; */
+"y4U-ff-aOm.placeholder" = "Last Name";
+
+/* Class = "UILabel"; text = "Go back and watch any video you want "; ObjectID = "yHk-ai-syw"; */
+"yHk-ai-syw.text" = "Go back and watch any video you want ";
+
+/* Class = "UILabel"; text = "|"; ObjectID = "yiM-74-XIu"; */
+"yiM-74-XIu.text" = "|";
+
+/* Class = "UILabel"; text = "harisbutt"; ObjectID = "ynz-Cx-U4J"; */
+"ynz-Cx-U4J.text" = "harisbutt";
+
+/* Class = "UILabel"; text = "2:45"; ObjectID = "zjQ-sm-czS"; */
+"zjQ-sm-czS.text" = "2:45";

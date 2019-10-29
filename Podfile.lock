@@ -1,0 +1,172 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.3.0)
+  - Alamofire (4.8.0)
+  - AsyncSwift (2.0.4)
+  - Bolts (1.9.0):
+    - Bolts/AppLinks (= 1.9.0)
+    - Bolts/Tasks (= 1.9.0)
+  - Bolts/AppLinks (1.9.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.9.0)
+  - CircleProgressView (1.2.0)
+  - CodableFirebase (0.2.1)
+  - DropDown (2.3.12)
+  - FBSDKCoreKit (4.40.0):
+    - Bolts (~> 1.9)
+  - FBSDKLoginKit (4.40.0):
+    - FBSDKCoreKit
+  - FirebaseAnalytics (3.9.0):
+    - FirebaseCore (~> 3.6)
+    - FirebaseInstanceID (~> 1.0)
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+  - FirebaseCore (3.6.0):
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+  - FirebaseInstanceID (1.0.10):
+    - FirebaseCore (~> 3.6)
+  - Google/Core (3.1.0):
+    - FirebaseAnalytics (~> 3.2)
+  - Google/SignIn (3.1.0):
+    - Google/Core
+    - GoogleSignIn (~> 4.0)
+  - GoogleSignIn (4.4.0):
+    - "GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)"
+    - "GoogleToolboxForMac/NSString+URLArguments (~> 2.1)"
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.2.0):
+    - GoogleToolboxForMac/Defines (= 2.2.0)
+  - GoogleToolboxForMac/Defines (2.2.0)
+  - "GoogleToolboxForMac/NSData+zlib (2.2.0)":
+    - GoogleToolboxForMac/Defines (= 2.2.0)
+  - "GoogleToolboxForMac/NSDictionary+URLArguments (2.2.0)":
+    - GoogleToolboxForMac/DebugUtils (= 2.2.0)
+    - GoogleToolboxForMac/Defines (= 2.2.0)
+    - "GoogleToolboxForMac/NSString+URLArguments (= 2.2.0)"
+  - "GoogleToolboxForMac/NSString+URLArguments (2.2.0)"
+  - GTMSessionFetcher/Core (1.2.1)
+  - IQKeyboardManagerSwift (6.2.0)
+  - JGProgressHUD (2.0.3)
+  - MMPlayerView (4.1.7)
+  - NVActivityIndicatorView (4.5.1):
+    - NVActivityIndicatorView/Presenter (= 4.5.1)
+  - NVActivityIndicatorView/Presenter (4.5.1)
+  - OneSignal (2.9.5)
+  - R.swift (5.0.1):
+    - R.swift.Library (~> 5.0.0)
+  - R.swift.Library (5.0.0)
+  - SDWebImage (4.4.3):
+    - SDWebImage/Core (= 4.4.3)
+  - SDWebImage/Core (4.4.3)
+  - SkyFloatingLabelTextField (3.6.0)
+  - SwiftIconFont (3.0.0)
+  - SwiftyBeaver (1.6.1)
+  - SwiftyJSON (4.2.0)
+  - SwipeableTabBarController (1.4.0)
+  - Toast-Swift (4.0.1)
+  - "UITextView+Placeholder (1.2.1)"
+  - XLPagerTabStrip (8.1.1)
+  - youtube-ios-player-helper (0.1.6)
+  - YouTubePlayer (0.4.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire
+  - AsyncSwift
+  - CircleProgressView (~> 1.0)
+  - CodableFirebase
+  - DropDown
+  - FBSDKLoginKit
+  - Google/SignIn
+  - IQKeyboardManagerSwift
+  - JGProgressHUD
+  - MMPlayerView
+  - NVActivityIndicatorView
+  - OneSignal (< 3.0, >= 2.6.2)
+  - R.swift
+  - SDWebImage (~> 4.0)
+  - SkyFloatingLabelTextField
+  - SwiftIconFont
+  - SwiftyBeaver
+  - SwiftyJSON
+  - SwipeableTabBarController
+  - Toast-Swift (~> 4.0.0)
+  - "UITextView+Placeholder"
+  - XLPagerTabStrip (~> 8.1)
+  - youtube-ios-player-helper (~> 0.1.4)
+  - YouTubePlayer
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ActionSheetPicker-3.0
+    - Alamofire
+    - AsyncSwift
+    - Bolts
+    - CircleProgressView
+    - CodableFirebase
+    - DropDown
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseInstanceID
+    - Google
+    - GoogleSignIn
+    - GoogleToolboxForMac
+    - GTMSessionFetcher
+    - IQKeyboardManagerSwift
+    - JGProgressHUD
+    - MMPlayerView
+    - NVActivityIndicatorView
+    - OneSignal
+    - R.swift
+    - R.swift.Library
+    - SDWebImage
+    - SkyFloatingLabelTextField
+    - SwiftIconFont
+    - SwiftyBeaver
+    - SwiftyJSON
+    - SwipeableTabBarController
+    - Toast-Swift
+    - "UITextView+Placeholder"
+    - XLPagerTabStrip
+    - youtube-ios-player-helper
+    - YouTubePlayer
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: eef157d75e151f255c5333d26656c7fbfe905a51
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  AsyncSwift: 65775a7b32e740609b24969ece3de58723b9dc3e
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  CircleProgressView: 6b5b091d59dc5e5d2fda84e637a40498cdc39937
+  CodableFirebase: 0bf201991eeec35eb9fcd987d271ea463cf34a80
+  DropDown: 0bcc278799ec11a3d34ce1aac9367fbbaf5423d9
+  FBSDKCoreKit: ae214474b25033399c131dc81d258e412582a2ba
+  FBSDKLoginKit: 7a1e411d46acc8834588eca437daf34de42e1d52
+  FirebaseAnalytics: e5fe8486efc01bec33f6bf82e2fa9fce4b124052
+  FirebaseCore: 9691ee2ade70c098d7cf92440f4303f16d83ca75
+  FirebaseInstanceID: b9eedd6846fb5e1f0f7279e1deaa7a7e4cf8392e
+  Google: 98da4b1a60ed0beb80a290387a28333406a1eb90
+  GoogleSignIn: 7ff245e1a7b26d379099d3243a562f5747e23d39
+  GoogleToolboxForMac: ff31605b7d66400dcec09bed5861689aebadda4d
+  GTMSessionFetcher: 32aeca0aa144acea523e1c8e053089dec2cb98ca
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+  MMPlayerView: 07fdf42b230349a32edac680c1441d5d78e9b485
+  NVActivityIndicatorView: ec34a7b88c51fab270004a1a1f32116e711010cd
+  OneSignal: ccdeb961882f8668305e5b694e2cb7cb325fc907
+  R.swift: a8e1a7e7f38441282fbcb7a3c266076eb38b77ba
+  R.swift.Library: 0bf390e729bc10bb2c9e4fb78bd043164a7be4ff
+  SDWebImage: c5594f1a19c48d526d321e548902b56b479cd508
+  SkyFloatingLabelTextField: 38164979b79512f9ff9288ad8acfc4bbf5d843e3
+  SwiftIconFont: 2ba18554a77c44948dc35b561b344e3c23834a84
+  SwiftyBeaver: ccfcdf85a04d429f1633f668650b0ce8020bda3a
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  SwipeableTabBarController: 3a393aa51f1c49c4517b05047c2688a6175c634c
+  Toast-Swift: e42a638589a2f95036b4bb7626cfbdde7daf0393
+  "UITextView+Placeholder": 0c3efd97f37ea64bde7f34cc6e90fe02e87b3909
+  XLPagerTabStrip: 63166e21c9844fa30f2d95d30f335e73be5caf22
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+  YouTubePlayer: 028451f6772f372d4759866db99824c676ac1473
+
+PODFILE CHECKSUM: 13bdcf02d645d2d096cd9a9dda4bf7767e26ad5f
+
+COCOAPODS: 1.6.0.beta.2

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+  <item android:top="15px" android:right="15px" android:left="15px" android:bottom="15px" android:drawable="@drawable/no_profile_image_circle"/>
+  <item  android:top="12px" android:right="12px" android:left="12px" android:bottom="12px" android:drawable="@drawable/circle"/>
+ 
+</layer-list>

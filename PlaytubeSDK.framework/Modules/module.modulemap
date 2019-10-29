@@ -1,0 +1,11 @@
+framework module PlaytubeSDK {
+  umbrella header "PlaytubeSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module PlaytubeSDK.Swift {
+    header "PlaytubeSDK-Swift.h"
+    requires objc
+}

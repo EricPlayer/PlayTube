@@ -1,0 +1,38 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Playtube' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+  
+  # Pods for Playtube
+  pod 'IQKeyboardManagerSwift'
+  pod 'Alamofire'
+  pod 'SwiftyJSON'
+  pod 'SkyFloatingLabelTextField'
+  pod 'NVActivityIndicatorView'
+  pod 'SwiftyBeaver'
+  pod 'JGProgressHUD'
+  pod 'Toast-Swift', '~> 4.0.0'
+  pod "AsyncSwift"
+  pod "SwipeableTabBarController"
+  pod 'R.swift'
+  pod 'XLPagerTabStrip', '~> 8.1'
+  pod 'SDWebImage', '~> 4.0'
+  pod 'DropDown'
+  pod 'SwiftIconFont'
+  pod 'UITextView+Placeholder'
+  pod 'CodableFirebase'
+  pod 'YouTubePlayer'
+  pod 'MMPlayerView'
+  pod 'Google/SignIn'
+  pod 'FBSDKLoginKit'
+  pod 'CircleProgressView', '~> 1.0'
+  pod 'ActionSheetPicker-3.0'
+   pod 'OneSignal', '>= 2.6.2', '< 3.0'
+  pod "youtube-ios-player-helper", "~> 0.1.4"
+end
+target 'OneSignalNotificationServiceExtension' do
+  use_frameworks!
+  pod 'OneSignal', '>= 2.6.2', '< 3.0'
+end

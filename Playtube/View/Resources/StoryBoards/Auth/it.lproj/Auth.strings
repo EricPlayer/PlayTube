@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Dont worry type your email here and we will recover it for you."; ObjectID = "1L5-x1-VmU"; */
+"1L5-x1-VmU.text" = "Non preoccuparti, scrivi qui la tua email e la recupereremo per te.";
+
+/* Class = "UILabel"; text = "Let's get started!"; ObjectID = "47c-zm-Gm1"; */
+"47c-zm-Gm1.text" = "Iniziamo!";
+
+/* Class = "UILabel"; text = "and"; ObjectID = "5pV-dc-sbd"; */
+"5pV-dc-sbd.text" = "and";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "8ss-Ef-XBi"; */
+"8ss-Ef-XBi.normalTitle" = "LOGIN";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "BdR-wb-CCP"; */
+"BdR-wb-CCP.normalTitle" = "REGISTER";
+
+/* Class = "UIButton"; normalTitle = "privacy Polcy"; ObjectID = "EiO-Wm-nDU"; */
+"EiO-Wm-nDU.normalTitle" = "privacy Polcy";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "GXY-pb-DBF"; */
+"GXY-pb-DBF.normalTitle" = "REGISTER";
+
+/* Class = "UIButton"; normalTitle = "Continue with Google"; ObjectID = "Rgv-Wc-duf"; */
+"Rgv-Wc-duf.normalTitle" = "Continue with Google";
+
+/* Class = "UIButton"; normalTitle = "Terms Of service"; ObjectID = "WY3-1V-1FE"; */
+"WY3-1V-1FE.normalTitle" = "Terms Of service";
+
+/* Class = "UIButton"; normalTitle = "Forget password ?"; ObjectID = "ZQo-fD-9aB"; */
+"ZQo-fD-9aB.normalTitle" = "Forget password ?";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "ZaR-GF-1Tz"; */
+"ZaR-GF-1Tz.normalTitle" = "SKIP";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "a5Z-5P-I2Y"; */
+"a5Z-5P-I2Y.normalTitle" = "REGISTER";
+
+/* Class = "UILabel"; text = "I agree to the"; ObjectID = "eX1-0s-Bpe"; */
+"eX1-0s-Bpe.text" = "I agree to the";
+
+/* Class = "UILabel"; text = "Forgot your password"; ObjectID = "jHT-6Q-X2S"; */
+"jHT-6Q-X2S.text" = "Forgot your password";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "kHr-uK-smB"; */
+"kHr-uK-smB.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "knn-dJ-OtX"; */
+"knn-dJ-OtX.normalTitle" = "Login";
